@@ -20,7 +20,22 @@ This project analyzes coffee shop sales data with the aim to explore revenue pat
 - Staff roster must be in shifts so we can pay staff salaries accordingly since we know peak and off peak hours.
 - Prioritize top performing products and review low sellers, this will help us save some funds.
 
-## 📁 Project Files
-- `Coffee_Sales_Data.xlsx` – Raw and cleaned datasets  
-- `PowerBI_Dashboard.pbix` – Interactive visualization dashboard  
   
+## 🗂️ Project Files Overview
+
+### 1️⃣ Input Project Files
+Contains the original materials used to complete the analysis:
+- [Bright Coffee Shop Analysis Transactions.csv] — Raw sales dataset for multiple coffee shops  
+- [Bright_Coffee_Project Instructions.pdf] — Project instructions and tasks outline  
+
+### 2️⃣ Planning
+Contains planning and visualization documents:
+- [Coffee Planning Flowchart.pdf] — Flowchart outlining the analysis process (created in Miro)  
+
+### 3️⃣ Output Project Files
+Contains the final deliverables from the project:
+- [Coffee_Shop_Excel_Sheets.xlsx] — Excel workbook with cleaned data, pivot tables, and charts. 
+- [Coffee_Shop_Script.sql.sql] — SQL queries used to extract and explore the dataset    
+- [Coffee_Shop_Presentation.pdf] — PDF version of the presentation for easy viewing  
+
+
