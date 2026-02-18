@@ -35,7 +35,7 @@ Contains planning and visualization documents:
 ### 3️⃣ Output Project Files
 Contains the final deliverables from the project:
 - [Coffee_Shop_Excel_Sheets.xlsx] — Excel workbook with cleaned data, pivot tables, and charts. 
-- [Coffee_Shop_Script.sql.sql] — SQL queries used to extract and explore the dataset    
+- [Coffee_Shop_Script.sql] — SQL queries used to extract and explore the dataset    
 - [Coffee_Shop_Presentation.pdf] — PDF version of the presentation for easy viewing  
 
 
