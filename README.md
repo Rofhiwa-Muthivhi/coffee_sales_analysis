@@ -4,7 +4,7 @@ This project analyzes coffee shop sales data with the aim to explore revenue pat
 
 ## 🧰 Tools Used
 - SQL – For querying and preparing the data
-- Snowflake - A platform to execut SQL code
+- Snowflake - A platform to execute SQL code
 - Excel – For data cleaning and pivot table analysis  
   
 
