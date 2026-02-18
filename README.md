@@ -26,7 +26,7 @@ This project analyzes coffee shop sales data with the aim to explore revenue pat
 ### 1️⃣ Input Project Files
 Contains the original materials used to complete the analysis:
 - [Bright Coffee Shop Analysis Transactions.csv] — Raw sales dataset for multiple coffee shops  
-- [Bright_Coffee_Project Instructions.pdf] — Project instructions and tasks outline  
+- [Bright_Coffee_Project Instructions.pdf] — Project instructions and task outline  
 
 ### 2️⃣ Planning
 Contains planning and visualization documents:
